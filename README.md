@@ -8,8 +8,8 @@ This repository contains the code and analysis for my data analysis project. The
 The project is organized as follows:
 
 - `datacleaning.ipynb`: Jupyter Notebook containing the entire data cleaning process.
-- `datamodelling&eda`: Jupyter Notebook containing the entire data modelling process, including exploratory data analysis (EDA) and visualization. 
-- `data`: The csv file containing the data used in the project.
+- `datamodelling&eda.ipynb`: Jupyter Notebook containing the entire data modelling process, including exploratory data analysis (EDA) and visualization. 
+- `data.csv`: The csv file containing the data used in the project.
 
 ## Requirements
 
@@ -35,13 +35,14 @@ git clone https://github.com/your-username/data-analysis-project.git
 2. Navigate to the project directory:
    
 ```
-cd Stock_Price_Data_Analysis
+cd Profit_Forecasting_Data_Analysis
 ```
 3. Launch the Jupyter Notebook
    
 ```
-jupyter notebook Stock_price_analysis.ipynb
+jupyter notebook datacleaning.ipynb
+jupyter notebook datamodelling&eda.ipynb
 ```
 
-Follow the step-by-step instructions in the notebook to reproduce the data analysis process,
+Follow the step-by-step instructions in the notebook to reproduce the data analysis process, including loading the dataset, cleaning the data and the datamodelling and eda
 
