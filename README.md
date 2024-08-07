@@ -30,7 +30,7 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
    
 ```
-git clone https://github.com/your-username/data-analysis-project.git
+git clone https://github.com/ashintech/data-analysis-project.git
 ```
 2. Navigate to the project directory:
    
